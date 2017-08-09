@@ -1,8 +1,12 @@
 # LLS Editing Project
 
+Not affiliaed with publishers or translator groups.
+
+Just a LLS fan - doing it for himself and other LLS fans.
+
 The goal of the project is to edit the LLS (first 500 chapters) into something more readable.
 
-Feel free to open issues, or directly close repo and submit merge requests.
+Feel free to open issues, or directly clone repo and submit merge requests.
 
 How LLS fans can help
 ========================
@@ -11,16 +15,8 @@ If you read the LLS (first 500 chapters) and spot a problem, you can report it h
 
 Read LLS [here](http://shiroyukitranslations.com/long-live-summons/). Donate to help the translators!
 
-Upvote LLS on [Baka](https://www.mangaupdates.com/series.html?id=123346) or [NovelUpdates](https://www.mangaupdates.com/series.html?id=123346)
+Upvote LLS on [Baka](https://www.mangaupdates.com/series.html?id=123346) or [NovelUpdates](http://www.novelupdates.com/series/long-live-summons/)
 
-Ground Rules for merge requests
-===============================
-
-1. No big changes in formatting. The text is stored as a plain HTML, with one line per paragraph. Based on my editing experience, that is a very good approach.
-
-2. All changes are subject to review. Changes could be rejected if they deviate too far from the original translation, or are too large (hard to review). To facilitate the review process, try to focus your edits only on certain aspects or chapter sets, and submit them often.
-
-3. You do not own the changes. Such is the thankless job of the book editors: all rights belong to owners of the original work (Qidian) and the derivative work (translation to English by Shiroyukineko et al). I'll keep the list of the contributors, but do not expect anything more. I myself do not.
 
 Initial Goals (Small)
 =============
